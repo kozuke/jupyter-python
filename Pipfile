@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 jupyter = "*"
 matplotlib = "*"
+mecab-python3 = "*"
+janome = "*"
 
 [requires]
 python_version = "3.7"
