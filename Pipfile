@@ -10,6 +10,7 @@ jupyter = "*"
 matplotlib = "*"
 mecab-python3 = "*"
 janome = "*"
+opencv-python = "*"
 
 [requires]
 python_version = "3.7"
