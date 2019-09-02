@@ -11,6 +11,8 @@ matplotlib = "*"
 mecab-python3 = "*"
 janome = "*"
 opencv-python = "*"
+sqlalchemy = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"
